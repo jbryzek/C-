@@ -12,7 +12,7 @@ public:
 		cout << "Stworzono pracownika.\n";
 	}
 	~pracownik() {
-		cout << "Usuniêto pracownika.\n";
+		cout << "UsuniÃªto pracownika.\n";
 	}
 
 };
